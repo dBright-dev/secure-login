@@ -16,17 +16,6 @@ It covers key concepts such as **user authentication**, **input validation**, an
 
 ---
 
-## 📂 Project Structure
-```
-project-folder/
-│
-├── index.html        # Login form (frontend)
-├── styles.css        # Basic styling
-├── script.js         # Client-side validation
-├── server.js         # Express backend with authentication
-└── package.json      # Node.js dependencies
-```
-
 ---
 
 ## ⚙️ Installation
